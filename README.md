@@ -1,2 +1,5 @@
-# iniciando-na-programacao-com-python
-Iniciando na programação com Python
+# Iniciando na programação com Python
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+Lógica de programação básica
